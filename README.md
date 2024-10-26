@@ -15,7 +15,7 @@ Clone the repository:
 
 Depoyu klonlayın:
 ```bash
-git clone https://github.com/sasan-abedininumber-to-word.git
+git clone https://github.com/sasan-abedini/number-to-word.git
 
 
 
